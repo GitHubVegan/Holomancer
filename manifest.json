@@ -1,6 +1,6 @@
 {
     "name": "HolomancerMod",
-    "version_number": "0.0.2",
+    "version_number": "0.0.3",
     "website_url": "https://github.com/GitHubVegan/RoR2SummonerProject",
     "description": "ALPHA RELEASE. Adds the Holomancer, a custom survivor based on summoning holographic minions.",
 	"dependencies": [
