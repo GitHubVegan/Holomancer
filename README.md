@@ -13,6 +13,7 @@ We appreciate any and all feedback. Contact us on Discord: **Vegan for the anima
 [HenryMod](https://github.com/ArcPh1r3/HenryTutorial) by rob was used as a base. There's probably a bunch of leftover code from Henry - especially in the unity project. A big thanks to rob for the HenryMod, it made developing this project so much easier and streamlined.
 
 ## Changelog
+- 0.0.3: Minor hotfix. Fixed onhit items on holograms and fixed shatters stacking holograms. Minor balance changes to Flurry, holograms die after 1 attack now, damage increased.
 - 0.0.2: Minor alpha update. Improved descriptions on the skills and did some balance changes. Fencer attacks should be more reliable now. Added a recall/teleport function to holograms for improved reliability. 
 - 0.0.1: Alpha.
 
