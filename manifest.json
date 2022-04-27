@@ -1,6 +1,6 @@
 {
     "name": "HolomancerMod",
-    "version_number": "0.1.0",
+    "version_number": "0.1.1",
     "website_url": "https://github.com/GitHubVegan/RoR2SummonerProject",
     "description": "WIP! Adds the Holomancer, a custom survivor based on summoning holographic minions. Now with unique models and animations for all three summons!",
 	"dependencies": [
